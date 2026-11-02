@@ -1,6 +1,6 @@
 # 图片排重 · DupScan
 
-找出内容相同、但文件名不同的图片，然后按你的意思处理 —— 全程离线，不删除任何文件。
+找出内容相同、但文件名不同的图片 —— 全程离线，不删除任何文件。
 
 > Find images with identical content but different filenames, entirely offline.
 > It reports them, moves them aside, or copies out a deduplicated set — and never
